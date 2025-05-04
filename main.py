@@ -4,8 +4,7 @@ import json
 
 app = FastAPI()
 
-# Load model and data once
-model = SentenceTransformer('all-MiniLM-L6-v2')  # Lighter model for Render
+model = SentenceTransformer('all-MiniLM-L6-v2')
 with open("freelancer_profiles.json", "r") as f:
     freelancer_data = json.load(f)
 
@@ -35,7 +34,7 @@ async def recommend_freelancers(request: Request):
             "Location": freelancer["Location"],
             "Rating": freelancer["Rating"],
             "Bio": freelancer["Bio"],
-            "Similarity": round(scores[idx], 4)
+            "Similarity": float(round(scores[idx], 4))
         })
 
     return {"results": top_freelancers}
