@@ -1,0 +1,1002 @@
+[
+    {
+        "Name": "Hassan Malik",
+        "Skill": "Flutter Development",
+        "Languages": "English",
+        "Experience": "Expert",
+        "Location": "Quetta",
+        "Rating": 3.4,
+        "Hourly Rate ($/hr)": 49,
+        "Bio": "Hassan Malik \u2013 Expert in Flutter Development. I\u2019m always exploring new ways to improve and bring fresh perspective to every project."
+    },
+    {
+        "Name": "Hassan Siddiqui",
+        "Skill": "Social Media Management",
+        "Languages": "Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Islamabad",
+        "Rating": 4.52,
+        "Hourly Rate ($/hr)": 54,
+        "Bio": "Hassan Siddiqui here \ud83d\udc4b \u2014 I\u2019ve been working in Social Media Management for a while now. People say I\u2019m pretty good at it! Currently based in Islamabad."
+    },
+    {
+        "Name": "Zara Raza",
+        "Skill": "Web Development",
+        "Languages": "Punjabi",
+        "Experience": "Expert",
+        "Location": "Peshawar",
+        "Rating": 3.18,
+        "Hourly Rate ($/hr)": 47,
+        "Bio": "I turn coffee into Web Development magic \u2615\ufe0f\u2728 \u2014 Expert, and always up for new challenges!"
+    },
+    {
+        "Name": "Bilal Chaudhry",
+        "Skill": "Web Development",
+        "Languages": "Urdu, English",
+        "Experience": "Expert",
+        "Location": "Multan",
+        "Rating": 4.02,
+        "Hourly Rate ($/hr)": 79,
+        "Bio": "Hi! I'm Bilal Chaudhry, currently rocking the Web Development world from Multan. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Zara Chaudhry",
+        "Skill": "Web Development",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Beginner",
+        "Location": "Multan",
+        "Rating": 3.71,
+        "Hourly Rate ($/hr)": 16,
+        "Bio": "Hey there! I'm Zara Chaudhry, a Beginner in Web Development based in Multan. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Fatima Khan",
+        "Skill": "SEO",
+        "Languages": "English, Punjabi",
+        "Experience": "Beginner",
+        "Location": "Quetta",
+        "Rating": 3.22,
+        "Hourly Rate ($/hr)": 78,
+        "Bio": "Fatima Khan here \ud83d\udc4b \u2014 I\u2019ve been working in SEO for a while now. People say I\u2019m pretty good at it! Currently based in Quetta."
+    },
+    {
+        "Name": "Hassan Malik",
+        "Skill": "Content Writing",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Intermediate",
+        "Location": "Quetta",
+        "Rating": 4.68,
+        "Hourly Rate ($/hr)": 17,
+        "Bio": "Passionate about Content Writing, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Ayesha Butt",
+        "Skill": "Content Writing",
+        "Languages": "Pashto, Urdu",
+        "Experience": "Intermediate",
+        "Location": "Multan",
+        "Rating": 3.77,
+        "Hourly Rate ($/hr)": 26,
+        "Bio": "Ayesha Butt \u2013 Intermediate in Content Writing. I\u2019m always exploring new ways to improve and bring fresh perspective to every project."
+    },
+    {
+        "Name": "Bilal Ahmed",
+        "Skill": "Machine Learning",
+        "Languages": "English, Urdu",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 3.05,
+        "Hourly Rate ($/hr)": 74,
+        "Bio": "Hey there! I'm Bilal Ahmed, a Beginner in Machine Learning based in Lahore. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Usman Butt",
+        "Skill": "Content Writing",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Expert",
+        "Location": "Lahore",
+        "Rating": 3.47,
+        "Hourly Rate ($/hr)": 78,
+        "Bio": "Passionate about Content Writing, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Fatima Iqbal",
+        "Skill": "Web Development",
+        "Languages": "Punjabi, Pashto",
+        "Experience": "Intermediate",
+        "Location": "Quetta",
+        "Rating": 3.77,
+        "Hourly Rate ($/hr)": 75,
+        "Bio": "Let\u2019s build something amazing together! I'm a Web Development enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Ahmed Malik",
+        "Skill": "Backend Development",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Multan",
+        "Rating": 4.74,
+        "Hourly Rate ($/hr)": 51,
+        "Bio": "With experience as a Intermediate freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Ali Sheikh",
+        "Skill": "SEO",
+        "Languages": "English, Urdu",
+        "Experience": "Expert",
+        "Location": "Faisalabad",
+        "Rating": 4.35,
+        "Hourly Rate ($/hr)": 50,
+        "Bio": "I turn coffee into SEO magic \u2615\ufe0f\u2728 \u2014 Expert, and always up for new challenges!"
+    },
+    {
+        "Name": "Ali Butt",
+        "Skill": "Content Writing",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Beginner",
+        "Location": "Faisalabad",
+        "Rating": 4.07,
+        "Hourly Rate ($/hr)": 51,
+        "Bio": "Passionate about Content Writing, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Mariam Siddiqui",
+        "Skill": "Backend Development",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 3.81,
+        "Hourly Rate ($/hr)": 52,
+        "Bio": "Let\u2019s build something amazing together! I'm a Backend Development enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Bilal Iqbal",
+        "Skill": "Graphic Design",
+        "Languages": "Urdu, Pashto",
+        "Experience": "Intermediate",
+        "Location": "Peshawar",
+        "Rating": 3.52,
+        "Hourly Rate ($/hr)": 69,
+        "Bio": "Let\u2019s build something amazing together! I'm a Graphic Design enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Zara Sheikh",
+        "Skill": "UI/UX Design",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Beginner",
+        "Location": "Quetta",
+        "Rating": 4.12,
+        "Hourly Rate ($/hr)": 22,
+        "Bio": "Zara Sheikh here \ud83d\udc4b \u2014 I\u2019ve been working in UI/UX Design for a while now. People say I\u2019m pretty good at it! Currently based in Quetta."
+    },
+    {
+        "Name": "Zara Malik",
+        "Skill": "Web Development",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Beginner",
+        "Location": "Quetta",
+        "Rating": 4.82,
+        "Hourly Rate ($/hr)": 52,
+        "Bio": "Hi! I'm Zara Malik, currently rocking the Web Development world from Quetta. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Ahmed Raza",
+        "Skill": "Backend Development",
+        "Languages": "Punjabi",
+        "Experience": "Expert",
+        "Location": "Faisalabad",
+        "Rating": 3.65,
+        "Hourly Rate ($/hr)": 70,
+        "Bio": "I don't just work in Backend Development \u2014 I live it. Based in Faisalabad, available for cool new opportunities!"
+    },
+    {
+        "Name": "Fatima Siddiqui",
+        "Skill": "Data Science",
+        "Languages": "English, Pashto",
+        "Experience": "Expert",
+        "Location": "Quetta",
+        "Rating": 4.92,
+        "Hourly Rate ($/hr)": 17,
+        "Bio": "Passionate about Data Science, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Usman Sheikh",
+        "Skill": "SEO",
+        "Languages": "Punjabi, English",
+        "Experience": "Intermediate",
+        "Location": "Quetta",
+        "Rating": 4.37,
+        "Hourly Rate ($/hr)": 31,
+        "Bio": "Usman Sheikh \u2013 Intermediate in SEO. I\u2019m always exploring new ways to improve and bring fresh perspective to every project."
+    },
+    {
+        "Name": "Ahmed Siddiqui",
+        "Skill": "SEO",
+        "Languages": "English, Urdu",
+        "Experience": "Beginner",
+        "Location": "Faisalabad",
+        "Rating": 3.45,
+        "Hourly Rate ($/hr)": 19,
+        "Bio": "Passionate about SEO, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Sana Khan",
+        "Skill": "Backend Development",
+        "Languages": "English, Pashto",
+        "Experience": "Beginner",
+        "Location": "Karachi",
+        "Rating": 3.82,
+        "Hourly Rate ($/hr)": 39,
+        "Bio": "I turn coffee into Backend Development magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Sana Hussain",
+        "Skill": "Flutter Development",
+        "Languages": "Urdu",
+        "Experience": "Expert",
+        "Location": "Rawalpindi",
+        "Rating": 4.0,
+        "Hourly Rate ($/hr)": 64,
+        "Bio": "Quick delivery, creative mindset, and years of Flutter Development experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Ayesha Raza",
+        "Skill": "Web Development",
+        "Languages": "English, Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Rawalpindi",
+        "Rating": 3.9,
+        "Hourly Rate ($/hr)": 14,
+        "Bio": "I turn coffee into Web Development magic \u2615\ufe0f\u2728 \u2014 Intermediate, and always up for new challenges!"
+    },
+    {
+        "Name": "Ali Siddiqui",
+        "Skill": "Backend Development",
+        "Languages": "Punjabi, Pashto",
+        "Experience": "Expert",
+        "Location": "Lahore",
+        "Rating": 3.92,
+        "Hourly Rate ($/hr)": 29,
+        "Bio": "I turn coffee into Backend Development magic \u2615\ufe0f\u2728 \u2014 Expert, and always up for new challenges!"
+    },
+    {
+        "Name": "Sana Malik",
+        "Skill": "Machine Learning",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Peshawar",
+        "Rating": 3.57,
+        "Hourly Rate ($/hr)": 77,
+        "Bio": "Sana Malik \u2013 Intermediate in Machine Learning. I\u2019m always exploring new ways to improve and bring fresh perspective to every project."
+    },
+    {
+        "Name": "Zara Raza",
+        "Skill": "Web Development",
+        "Languages": "English",
+        "Experience": "Beginner",
+        "Location": "Peshawar",
+        "Rating": 4.63,
+        "Hourly Rate ($/hr)": 43,
+        "Bio": "Hey there! I'm Zara Raza, a Beginner in Web Development based in Peshawar. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Mariam Iqbal",
+        "Skill": "Social Media Management",
+        "Languages": "Urdu, Pashto",
+        "Experience": "Beginner",
+        "Location": "Quetta",
+        "Rating": 3.65,
+        "Hourly Rate ($/hr)": 38,
+        "Bio": "Hey there! I'm Mariam Iqbal, a Beginner in Social Media Management based in Quetta. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Bilal Hussain",
+        "Skill": "Web Development",
+        "Languages": "English, Pashto",
+        "Experience": "Intermediate",
+        "Location": "Faisalabad",
+        "Rating": 4.47,
+        "Hourly Rate ($/hr)": 41,
+        "Bio": "Let\u2019s build something amazing together! I'm a Web Development enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Ali Butt",
+        "Skill": "Content Writing",
+        "Languages": "Punjabi, English",
+        "Experience": "Beginner",
+        "Location": "Quetta",
+        "Rating": 3.53,
+        "Hourly Rate ($/hr)": 21,
+        "Bio": "With experience as a Beginner freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Ali Butt",
+        "Skill": "Data Science",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Karachi",
+        "Rating": 3.81,
+        "Hourly Rate ($/hr)": 55,
+        "Bio": "Let\u2019s build something amazing together! I'm a Data Science enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Ayesha Iqbal",
+        "Skill": "Machine Learning",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Lahore",
+        "Rating": 4.69,
+        "Hourly Rate ($/hr)": 11,
+        "Bio": "Hey there! I'm Ayesha Iqbal, a Intermediate in Machine Learning based in Lahore. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Bilal Butt",
+        "Skill": "SEO",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Faisalabad",
+        "Rating": 4.01,
+        "Hourly Rate ($/hr)": 28,
+        "Bio": "Passionate about SEO, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Hassan Hussain",
+        "Skill": "Flutter Development",
+        "Languages": "Pashto",
+        "Experience": "Expert",
+        "Location": "Peshawar",
+        "Rating": 4.51,
+        "Hourly Rate ($/hr)": 30,
+        "Bio": "Hassan Hussain here \ud83d\udc4b \u2014 I\u2019ve been working in Flutter Development for a while now. People say I\u2019m pretty good at it! Currently based in Peshawar."
+    },
+    {
+        "Name": "Usman Hussain",
+        "Skill": "Social Media Management",
+        "Languages": "English",
+        "Experience": "Beginner",
+        "Location": "Multan",
+        "Rating": 4.65,
+        "Hourly Rate ($/hr)": 67,
+        "Bio": "I turn coffee into Social Media Management magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Bilal Hussain",
+        "Skill": "Flutter Development",
+        "Languages": "Punjabi, Pashto",
+        "Experience": "Expert",
+        "Location": "Multan",
+        "Rating": 3.16,
+        "Hourly Rate ($/hr)": 20,
+        "Bio": "Hi! I'm Bilal Hussain, currently rocking the Flutter Development world from Multan. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Fatima Siddiqui",
+        "Skill": "Machine Learning",
+        "Languages": "Pashto, Urdu",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 3.45,
+        "Hourly Rate ($/hr)": 34,
+        "Bio": "Passionate about Machine Learning, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Ahmed Sheikh",
+        "Skill": "Graphic Design",
+        "Languages": "Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Rawalpindi",
+        "Rating": 3.85,
+        "Hourly Rate ($/hr)": 56,
+        "Bio": "I don't just work in Graphic Design \u2014 I live it. Based in Rawalpindi, available for cool new opportunities!"
+    },
+    {
+        "Name": "Zara Ahmed",
+        "Skill": "Data Science",
+        "Languages": "English",
+        "Experience": "Expert",
+        "Location": "Islamabad",
+        "Rating": 3.35,
+        "Hourly Rate ($/hr)": 39,
+        "Bio": "Quick delivery, creative mindset, and years of Data Science experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Sana Hussain",
+        "Skill": "Backend Development",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Beginner",
+        "Location": "Karachi",
+        "Rating": 4.21,
+        "Hourly Rate ($/hr)": 26,
+        "Bio": "Sana Hussain here \ud83d\udc4b \u2014 I\u2019ve been working in Backend Development for a while now. People say I\u2019m pretty good at it! Currently based in Karachi."
+    },
+    {
+        "Name": "Ali Iqbal",
+        "Skill": "Data Science",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Islamabad",
+        "Rating": 4.35,
+        "Hourly Rate ($/hr)": 28,
+        "Bio": "With experience as a Intermediate freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Ayesha Khan",
+        "Skill": "Web Development",
+        "Languages": "English, Pashto",
+        "Experience": "Beginner",
+        "Location": "Islamabad",
+        "Rating": 4.15,
+        "Hourly Rate ($/hr)": 15,
+        "Bio": "I turn coffee into Web Development magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Zara Siddiqui",
+        "Skill": "Machine Learning",
+        "Languages": "Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Islamabad",
+        "Rating": 3.65,
+        "Hourly Rate ($/hr)": 73,
+        "Bio": "I don't just work in Machine Learning \u2014 I live it. Based in Islamabad, available for cool new opportunities!"
+    },
+    {
+        "Name": "Bilal Khan",
+        "Skill": "Content Writing",
+        "Languages": "Pashto, Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Multan",
+        "Rating": 4.57,
+        "Hourly Rate ($/hr)": 37,
+        "Bio": "I don't just work in Content Writing \u2014 I live it. Based in Multan, available for cool new opportunities!"
+    },
+    {
+        "Name": "Hassan Iqbal",
+        "Skill": "Backend Development",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Faisalabad",
+        "Rating": 4.85,
+        "Hourly Rate ($/hr)": 57,
+        "Bio": "Hey there! I'm Hassan Iqbal, a Intermediate in Backend Development based in Faisalabad. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Ayesha Siddiqui",
+        "Skill": "Data Science",
+        "Languages": "English",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 3.42,
+        "Hourly Rate ($/hr)": 67,
+        "Bio": "I don't just work in Data Science \u2014 I live it. Based in Lahore, available for cool new opportunities!"
+    },
+    {
+        "Name": "Ali Ahmed",
+        "Skill": "Backend Development",
+        "Languages": "English, Urdu",
+        "Experience": "Intermediate",
+        "Location": "Karachi",
+        "Rating": 4.3,
+        "Hourly Rate ($/hr)": 80,
+        "Bio": "Quick delivery, creative mindset, and years of Backend Development experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Bilal Iqbal",
+        "Skill": "SEO",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Intermediate",
+        "Location": "Rawalpindi",
+        "Rating": 4.4,
+        "Hourly Rate ($/hr)": 70,
+        "Bio": "Bilal Iqbal here \ud83d\udc4b \u2014 I\u2019ve been working in SEO for a while now. People say I\u2019m pretty good at it! Currently based in Rawalpindi."
+    },
+    {
+        "Name": "Ahmed Ahmed",
+        "Skill": "Data Science",
+        "Languages": "Urdu, Pashto",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 4.81,
+        "Hourly Rate ($/hr)": 18,
+        "Bio": "Quick delivery, creative mindset, and years of Data Science experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Ahmed Iqbal",
+        "Skill": "Flutter Development",
+        "Languages": "Urdu, English",
+        "Experience": "Expert",
+        "Location": "Lahore",
+        "Rating": 3.82,
+        "Hourly Rate ($/hr)": 65,
+        "Bio": "Hey there! I'm Ahmed Iqbal, a Expert in Flutter Development based in Lahore. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Ahmed Raza",
+        "Skill": "Flutter Development",
+        "Languages": "English, Pashto",
+        "Experience": "Beginner",
+        "Location": "Multan",
+        "Rating": 4.29,
+        "Hourly Rate ($/hr)": 51,
+        "Bio": "With experience as a Beginner freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Sana Butt",
+        "Skill": "Backend Development",
+        "Languages": "Punjabi",
+        "Experience": "Expert",
+        "Location": "Islamabad",
+        "Rating": 3.75,
+        "Hourly Rate ($/hr)": 11,
+        "Bio": "With experience as a Expert freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Ahmed Hussain",
+        "Skill": "Content Writing",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Faisalabad",
+        "Rating": 4.41,
+        "Hourly Rate ($/hr)": 18,
+        "Bio": "I don't just work in Content Writing \u2014 I live it. Based in Faisalabad, available for cool new opportunities!"
+    },
+    {
+        "Name": "Fatima Iqbal",
+        "Skill": "Content Writing",
+        "Languages": "Punjabi, Pashto",
+        "Experience": "Intermediate",
+        "Location": "Karachi",
+        "Rating": 4.54,
+        "Hourly Rate ($/hr)": 22,
+        "Bio": "Hi! I'm Fatima Iqbal, currently rocking the Content Writing world from Karachi. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Zara Khan",
+        "Skill": "Backend Development",
+        "Languages": "Urdu",
+        "Experience": "Expert",
+        "Location": "Islamabad",
+        "Rating": 3.16,
+        "Hourly Rate ($/hr)": 52,
+        "Bio": "Let\u2019s build something amazing together! I'm a Backend Development enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Hassan Raza",
+        "Skill": "Backend Development",
+        "Languages": "Punjabi",
+        "Experience": "Expert",
+        "Location": "Rawalpindi",
+        "Rating": 4.9,
+        "Hourly Rate ($/hr)": 26,
+        "Bio": "Hey there! I'm Hassan Raza, a Expert in Backend Development based in Rawalpindi. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Zara Butt",
+        "Skill": "Backend Development",
+        "Languages": "English, Pashto",
+        "Experience": "Beginner",
+        "Location": "Rawalpindi",
+        "Rating": 3.09,
+        "Hourly Rate ($/hr)": 35,
+        "Bio": "Zara Butt \u2013 Beginner in Backend Development. I\u2019m always exploring new ways to improve and bring fresh perspective to every project."
+    },
+    {
+        "Name": "Ahmed Khan",
+        "Skill": "Web Development",
+        "Languages": "Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Lahore",
+        "Rating": 3.83,
+        "Hourly Rate ($/hr)": 50,
+        "Bio": "Passionate about Web Development, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Sana Malik",
+        "Skill": "Data Science",
+        "Languages": "Punjabi",
+        "Experience": "Beginner",
+        "Location": "Islamabad",
+        "Rating": 3.11,
+        "Hourly Rate ($/hr)": 56,
+        "Bio": "Passionate about Data Science, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Bilal Hussain",
+        "Skill": "SEO",
+        "Languages": "Pashto, English",
+        "Experience": "Expert",
+        "Location": "Lahore",
+        "Rating": 4.91,
+        "Hourly Rate ($/hr)": 20,
+        "Bio": "Passionate about SEO, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Usman Sheikh",
+        "Skill": "UI/UX Design",
+        "Languages": "Pashto, Punjabi",
+        "Experience": "Expert",
+        "Location": "Rawalpindi",
+        "Rating": 4.0,
+        "Hourly Rate ($/hr)": 19,
+        "Bio": "Quick delivery, creative mindset, and years of UI/UX Design experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Bilal Malik",
+        "Skill": "Social Media Management",
+        "Languages": "Punjabi, English",
+        "Experience": "Intermediate",
+        "Location": "Peshawar",
+        "Rating": 4.2,
+        "Hourly Rate ($/hr)": 37,
+        "Bio": "Quick delivery, creative mindset, and years of Social Media Management experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Ayesha Malik",
+        "Skill": "Social Media Management",
+        "Languages": "Pashto",
+        "Experience": "Beginner",
+        "Location": "Faisalabad",
+        "Rating": 3.81,
+        "Hourly Rate ($/hr)": 71,
+        "Bio": "Hi! I'm Ayesha Malik, currently rocking the Social Media Management world from Faisalabad. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Usman Raza",
+        "Skill": "Graphic Design",
+        "Languages": "Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Multan",
+        "Rating": 4.03,
+        "Hourly Rate ($/hr)": 64,
+        "Bio": "Let\u2019s build something amazing together! I'm a Graphic Design enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Mariam Khan",
+        "Skill": "Data Science",
+        "Languages": "English",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 3.41,
+        "Hourly Rate ($/hr)": 16,
+        "Bio": "I turn coffee into Data Science magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Ayesha Raza",
+        "Skill": "Social Media Management",
+        "Languages": "Punjabi, English",
+        "Experience": "Intermediate",
+        "Location": "Lahore",
+        "Rating": 4.07,
+        "Hourly Rate ($/hr)": 45,
+        "Bio": "Hi! I'm Ayesha Raza, currently rocking the Social Media Management world from Lahore. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Sana Siddiqui",
+        "Skill": "SEO",
+        "Languages": "Pashto, English",
+        "Experience": "Beginner",
+        "Location": "Multan",
+        "Rating": 4.5,
+        "Hourly Rate ($/hr)": 74,
+        "Bio": "Passionate about SEO, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Mariam Siddiqui",
+        "Skill": "Graphic Design",
+        "Languages": "Urdu, Punjabi",
+        "Experience": "Beginner",
+        "Location": "Peshawar",
+        "Rating": 4.6,
+        "Hourly Rate ($/hr)": 10,
+        "Bio": "I turn coffee into Graphic Design magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Sana Khan",
+        "Skill": "UI/UX Design",
+        "Languages": "Urdu, English",
+        "Experience": "Intermediate",
+        "Location": "Multan",
+        "Rating": 4.24,
+        "Hourly Rate ($/hr)": 16,
+        "Bio": "Passionate about UI/UX Design, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Bilal Malik",
+        "Skill": "Content Writing",
+        "Languages": "English",
+        "Experience": "Intermediate",
+        "Location": "Peshawar",
+        "Rating": 3.89,
+        "Hourly Rate ($/hr)": 21,
+        "Bio": "With experience as a Intermediate freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Mariam Siddiqui",
+        "Skill": "Social Media Management",
+        "Languages": "English",
+        "Experience": "Beginner",
+        "Location": "Rawalpindi",
+        "Rating": 4.5,
+        "Hourly Rate ($/hr)": 17,
+        "Bio": "Passionate about Social Media Management, and I've helped dozens of clients create awesome results. Reach out if you're looking for someone friendly and skilled!"
+    },
+    {
+        "Name": "Usman Iqbal",
+        "Skill": "Machine Learning",
+        "Languages": "Urdu, Pashto",
+        "Experience": "Beginner",
+        "Location": "Faisalabad",
+        "Rating": 3.03,
+        "Hourly Rate ($/hr)": 25,
+        "Bio": "With experience as a Beginner freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Ahmed Iqbal",
+        "Skill": "SEO",
+        "Languages": "Pashto, Urdu",
+        "Experience": "Intermediate",
+        "Location": "Faisalabad",
+        "Rating": 3.23,
+        "Hourly Rate ($/hr)": 61,
+        "Bio": "Quick delivery, creative mindset, and years of SEO experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Ayesha Hussain",
+        "Skill": "UI/UX Design",
+        "Languages": "English",
+        "Experience": "Intermediate",
+        "Location": "Rawalpindi",
+        "Rating": 4.52,
+        "Hourly Rate ($/hr)": 27,
+        "Bio": "I don't just work in UI/UX Design \u2014 I live it. Based in Rawalpindi, available for cool new opportunities!"
+    },
+    {
+        "Name": "Mariam Hussain",
+        "Skill": "Graphic Design",
+        "Languages": "English",
+        "Experience": "Beginner",
+        "Location": "Multan",
+        "Rating": 3.61,
+        "Hourly Rate ($/hr)": 26,
+        "Bio": "Hi! I'm Mariam Hussain, currently rocking the Graphic Design world from Multan. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Sana Raza",
+        "Skill": "Flutter Development",
+        "Languages": "Punjabi, Pashto",
+        "Experience": "Beginner",
+        "Location": "Peshawar",
+        "Rating": 4.19,
+        "Hourly Rate ($/hr)": 25,
+        "Bio": "Sana Raza here \ud83d\udc4b \u2014 I\u2019ve been working in Flutter Development for a while now. People say I\u2019m pretty good at it! Currently based in Peshawar."
+    },
+    {
+        "Name": "Ahmed Sheikh",
+        "Skill": "Data Science",
+        "Languages": "Pashto, Urdu",
+        "Experience": "Beginner",
+        "Location": "Karachi",
+        "Rating": 3.23,
+        "Hourly Rate ($/hr)": 57,
+        "Bio": "Ahmed Sheikh here \ud83d\udc4b \u2014 I\u2019ve been working in Data Science for a while now. People say I\u2019m pretty good at it! Currently based in Karachi."
+    },
+    {
+        "Name": "Usman Butt",
+        "Skill": "Social Media Management",
+        "Languages": "Urdu, Pashto",
+        "Experience": "Expert",
+        "Location": "Quetta",
+        "Rating": 4.92,
+        "Hourly Rate ($/hr)": 47,
+        "Bio": "I don't just work in Social Media Management \u2014 I live it. Based in Quetta, available for cool new opportunities!"
+    },
+    {
+        "Name": "Bilal Khan",
+        "Skill": "UI/UX Design",
+        "Languages": "Punjabi, English",
+        "Experience": "Expert",
+        "Location": "Lahore",
+        "Rating": 3.96,
+        "Hourly Rate ($/hr)": 33,
+        "Bio": "Hi! I'm Bilal Khan, currently rocking the UI/UX Design world from Lahore. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Zara Khan",
+        "Skill": "Data Science",
+        "Languages": "English, Urdu",
+        "Experience": "Beginner",
+        "Location": "Rawalpindi",
+        "Rating": 4.2,
+        "Hourly Rate ($/hr)": 72,
+        "Bio": "Let\u2019s build something amazing together! I'm a Data Science enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Fatima Iqbal",
+        "Skill": "Data Science",
+        "Languages": "English, Punjabi",
+        "Experience": "Beginner",
+        "Location": "Peshawar",
+        "Rating": 3.35,
+        "Hourly Rate ($/hr)": 28,
+        "Bio": "Quick delivery, creative mindset, and years of Data Science experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Ayesha Iqbal",
+        "Skill": "Content Writing",
+        "Languages": "Pashto, Punjabi",
+        "Experience": "Expert",
+        "Location": "Lahore",
+        "Rating": 3.37,
+        "Hourly Rate ($/hr)": 46,
+        "Bio": "Let\u2019s build something amazing together! I'm a Content Writing enthusiast with a knack for quality and creativity."
+    },
+    {
+        "Name": "Sana Sheikh",
+        "Skill": "Machine Learning",
+        "Languages": "Urdu",
+        "Experience": "Expert",
+        "Location": "Multan",
+        "Rating": 3.92,
+        "Hourly Rate ($/hr)": 34,
+        "Bio": "With experience as a Expert freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Hassan Raza",
+        "Skill": "UI/UX Design",
+        "Languages": "Pashto",
+        "Experience": "Intermediate",
+        "Location": "Quetta",
+        "Rating": 3.01,
+        "Hourly Rate ($/hr)": 25,
+        "Bio": "Hey there! I'm Hassan Raza, a Intermediate in UI/UX Design based in Quetta. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Sana Hussain",
+        "Skill": "Social Media Management",
+        "Languages": "Punjabi, Urdu",
+        "Experience": "Beginner",
+        "Location": "Multan",
+        "Rating": 4.26,
+        "Hourly Rate ($/hr)": 45,
+        "Bio": "Hey there! I'm Sana Hussain, a Beginner in Social Media Management based in Multan. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Ayesha Siddiqui",
+        "Skill": "Data Science",
+        "Languages": "Pashto, English",
+        "Experience": "Beginner",
+        "Location": "Faisalabad",
+        "Rating": 4.89,
+        "Hourly Rate ($/hr)": 20,
+        "Bio": "Hi! I'm Ayesha Siddiqui, currently rocking the Data Science world from Faisalabad. I'm all about clean work, creative ideas, and good vibes!"
+    },
+    {
+        "Name": "Bilal Chaudhry",
+        "Skill": "Content Writing",
+        "Languages": "Pashto, Urdu",
+        "Experience": "Intermediate",
+        "Location": "Peshawar",
+        "Rating": 3.66,
+        "Hourly Rate ($/hr)": 16,
+        "Bio": "I turn coffee into Content Writing magic \u2615\ufe0f\u2728 \u2014 Intermediate, and always up for new challenges!"
+    },
+    {
+        "Name": "Bilal Chaudhry",
+        "Skill": "Flutter Development",
+        "Languages": "Urdu, English",
+        "Experience": "Intermediate",
+        "Location": "Multan",
+        "Rating": 3.42,
+        "Hourly Rate ($/hr)": 23,
+        "Bio": "I turn coffee into Flutter Development magic \u2615\ufe0f\u2728 \u2014 Intermediate, and always up for new challenges!"
+    },
+    {
+        "Name": "Mariam Malik",
+        "Skill": "Web Development",
+        "Languages": "English, Urdu",
+        "Experience": "Beginner",
+        "Location": "Islamabad",
+        "Rating": 4.59,
+        "Hourly Rate ($/hr)": 17,
+        "Bio": "I turn coffee into Web Development magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Bilal Ahmed",
+        "Skill": "Data Science",
+        "Languages": "Urdu",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 4.8,
+        "Hourly Rate ($/hr)": 16,
+        "Bio": "I turn coffee into Data Science magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Hassan Butt",
+        "Skill": "Web Development",
+        "Languages": "Pashto",
+        "Experience": "Beginner",
+        "Location": "Multan",
+        "Rating": 3.15,
+        "Hourly Rate ($/hr)": 15,
+        "Bio": "Hey there! I'm Hassan Butt, a Beginner in Web Development based in Multan. I love helping clients bring their ideas to life \u2014 let's collaborate!"
+    },
+    {
+        "Name": "Bilal Raza",
+        "Skill": "Web Development",
+        "Languages": "Urdu, English",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 4.92,
+        "Hourly Rate ($/hr)": 20,
+        "Bio": "I turn coffee into Web Development magic \u2615\ufe0f\u2728 \u2014 Beginner, and always up for new challenges!"
+    },
+    {
+        "Name": "Bilal Chaudhry",
+        "Skill": "UI/UX Design",
+        "Languages": "Urdu, English",
+        "Experience": "Beginner",
+        "Location": "Quetta",
+        "Rating": 3.11,
+        "Hourly Rate ($/hr)": 30,
+        "Bio": "Quick delivery, creative mindset, and years of UI/UX Design experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Fatima Siddiqui",
+        "Skill": "Data Science",
+        "Languages": "Punjabi",
+        "Experience": "Intermediate",
+        "Location": "Quetta",
+        "Rating": 4.08,
+        "Hourly Rate ($/hr)": 73,
+        "Bio": "Quick delivery, creative mindset, and years of Data Science experience \u2014 that\u2019s me in a nutshell."
+    },
+    {
+        "Name": "Ayesha Chaudhry",
+        "Skill": "Data Science",
+        "Languages": "English",
+        "Experience": "Expert",
+        "Location": "Peshawar",
+        "Rating": 4.82,
+        "Hourly Rate ($/hr)": 76,
+        "Bio": "With experience as a Expert freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Bilal Siddiqui",
+        "Skill": "Data Science",
+        "Languages": "English",
+        "Experience": "Intermediate",
+        "Location": "Rawalpindi",
+        "Rating": 3.12,
+        "Hourly Rate ($/hr)": 29,
+        "Bio": "Bilal Siddiqui here \ud83d\udc4b \u2014 I\u2019ve been working in Data Science for a while now. People say I\u2019m pretty good at it! Currently based in Rawalpindi."
+    },
+    {
+        "Name": "Usman Siddiqui",
+        "Skill": "Social Media Management",
+        "Languages": "Urdu",
+        "Experience": "Expert",
+        "Location": "Multan",
+        "Rating": 4.43,
+        "Hourly Rate ($/hr)": 30,
+        "Bio": "With experience as a Expert freelancer, I bring not just skill but also great communication and punctuality to every project."
+    },
+    {
+        "Name": "Ahmed Iqbal",
+        "Skill": "Content Writing",
+        "Languages": "Urdu, Pashto",
+        "Experience": "Intermediate",
+        "Location": "Peshawar",
+        "Rating": 4.51,
+        "Hourly Rate ($/hr)": 46,
+        "Bio": "I turn coffee into Content Writing magic \u2615\ufe0f\u2728 \u2014 Intermediate, and always up for new challenges!"
+    },
+    {
+        "Name": "Mariam Raza",
+        "Skill": "Backend Development",
+        "Languages": "Pashto, Urdu",
+        "Experience": "Beginner",
+        "Location": "Lahore",
+        "Rating": 3.99,
+        "Hourly Rate ($/hr)": 29,
+        "Bio": "With experience as a Beginner freelancer, I bring not just skill but also great communication and punctuality to every project."
+    }
+]
